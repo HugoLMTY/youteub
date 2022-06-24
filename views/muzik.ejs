@@ -1,0 +1,30 @@
+<div>
+	<img src="<%= i.tu.url %>" max-height="420" width="420"  alt="">
+	
+	<h5>
+		<%= i.title %>
+		(<a href="<%= i.video_url %>" target="_blank">voir</a>)
+	</h5>
+	<p> <b>Desc:	</b> 	<%= i.description %> 	</p>
+
+
+	<p> 
+		<b>Auteur:	</b>
+		<%= i.author.name %>, <%= i.author.subscriber_count %> Abonnés
+		(<a href="<%= i.author.channel_url %> " target="_blank">voir</a>)
+		<% if (i.author.verified) { %> - Validé par la youteub streetzer <% } %>  
+	</p>
+
+
+	<p> <b> Durée:		</b> 	<%= i.duration %>  		</p>
+	<p> <b> Likes:		</b> 	<%= i.likes %>  		</p>
+	<p> <b> Views:		</b> 	<%= i.viewCount %>  	</p>
+	<p> <b> Date:		</b> 	<%= i.publishDate %>  	</p>
+	<p> <b> Catégorie 	</b>	<%= i.category %> 		</p>
+
+	<form method="post" action="/sup">	
+		<input type="hidden" value="<%= i.video_url %>" name="url">
+		<input type="hidden" value="<%= i.title %>" name="name">
+		<button type="submit">je veu sa</button>
+	</form>
+</div>
