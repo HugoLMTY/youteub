@@ -67,12 +67,13 @@ app.get('/muzik/:url', (req, res) => {
 		'https://youtu.be/',
 	]
 
-	const link = req.params.url
+	const link = req.params.url.split('&')[0]
 	const id = UCT(link, toCheck, 'includes')
 		? link.split('=')[1]
 		: UCT(link.length, [ 11 ], '==')
 			? link
 			: false
+	console.log({ link, id })
 	if (!id) { this.isKlochar = true; res.redirect('/download') }
 
 	ytdl.getInfo(id)
