@@ -1,15 +1,13 @@
 # _{youTeub}_
 
-#### _{
-Marre de voir des vidéso supprimées de youtube sans rien pouvoir y faire? Moi aussi.
+#### _Marre de voir des vidéso supprimées de youtube sans rien pouvoir y faire? Moi aussi.
 Marre de devoir trouver des sites shady fournissant un téléchargement après 4h de pubs, 28 virus et 17 milfs chaudes dans ta région? Moi aussi.
 
 Utiliser youTeub, c'est dire au revoir aux petits tracats du quotidien. Maintenant vous avez la possibilité de télécharger en quelques clics douteux les vidéos de votre choix. 
 
-Plusieurs axes d'évolutions sont prévus et devront arriver d'ici 2059 si j'y pense mais soyez en certains, les pubs et les arnaques n'arriveront pas avant la v1.2.0 du site, profitez-en avant !
-}_
+Plusieurs axes d'évolutions sont prévus et devront arriver d'ici 2059 si j'y pense mais soyez en certains, les pubs et les arnaques n'arriveront pas avant la v1.2.0 du site, profitez-en avant !_
 
-#### By _**{PatateSkrr}**_
+#### By _**PatateSkrr**_
 
 ## Technologies Used
 
@@ -43,7 +41,6 @@ Mais j'ai réussi ce que je voulais faire et c'est suffisant pour moi, bonne cha
 * _Lance le project (npm start)_
 * _TlchrJ tes vidéos_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
@@ -51,7 +48,5 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Contact Information
 
-_{
-Si après avoir lu tout ca et analyser mon code vous souhaitez me contacter, merci de rester professionnel et de ne pas m'envoyer de menaces de mort pour avoir pondu une attrocité pareil, c'est mon bébé et même s'il est moche, peu sécurisé et à peine fonctionnel il fait ce pourquoi il a été créé et je l'aime.
-Mail: hugo.lm2707@gmail.com
-}_
+_Si après avoir lu tout ca et analyser mon code vous souhaitez me contacter, merci de rester professionnel et de ne pas m'envoyer de menaces de mort pour avoir pondu une attrocité pareil, c'est mon bébé et même s'il est moche, peu sécurisé et à peine fonctionnel il fait ce pourquoi il a été créé et je l'aime.
+Mail: hugo.lm2707@gmail.com_
