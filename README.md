@@ -1,9 +1,9 @@
-# _{youTeub}_
+# _youTeub_
 
 #### Marre de voir des vidéso supprimées de youtube sans rien pouvoir y faire? Moi aussi._
 _Marre de devoir trouver des sites shady fournissant un téléchargement après 4h de pubs, 28 virus et 17 milfs chaudes dans ta région? Moi aussi._
 
-_Utiliser youTeub, c'est dire au revoir aux petits tracats du quotidien. Maintenant vous avez la possibilité de télécharger en quelques clics douteux les vidéos de votre choix. _
+_Utiliser youTeub, c'est dire au revoir aux petits tracats du quotidien. Maintenant vous avez la possibilité de télécharger en quelques clics douteux les vidéos de votre choix._
 
 _Plusieurs axes d'évolutions sont prévus et devront arriver d'ici 2059 si j'y pense mais soyez en certains, les pubs et les arnaques n'arriveront pas avant la v1.2.0 du site, profitez-en avant !_
 
@@ -18,7 +18,7 @@ _Plusieurs axes d'évolutions sont prévus et devront arriver d'ici 2059 si j'y 
 
 ## Notes
 
-_{Le projet n'était pas fait pour se concrétiser, mais voici son histoire.
+Le projet n'était pas fait pour se concrétiser, mais voici son histoire.
 
 C'était mardi (ou un jeudi mais c'est pas ca la question) on ne peut plus normal, j'entame ma journée de travail comme un mardi (ou un jeudi, encore une fois) en lancant un live que j'avais prit l'habitude d'écouter en fond. Grande fût ma surprise lorsque j'appris qu'il avait été supprimé pour de sombres raisons. 
 
@@ -31,7 +31,7 @@ Ce que voyait était un terrible spectacle. Un mélange de code inutile et dupli
 Après reflexion, je me rendit compte que seules deux lignes (les calls à ytdl) composaient ce que j'étais à la base censé faire.
 Encore une fois je m'étais dispersé et avait perdu de vue mon objectif principal.
 
-Mais j'ai réussi ce que je voulais faire et c'est suffisant pour moi, bonne chance en lisant le code j'y ai perdu la vue il y a de ca jadis}_
+Mais j'ai réussi ce que je voulais faire et c'est suffisant pour moi, bonne chance en lisant le code j'y ai perdu la vue il y a de ca jadis
 
 ## Setup/Installation Requirements
 
