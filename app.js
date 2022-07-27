@@ -73,7 +73,6 @@ app.get('/muzik/:url', (req, res) => {
 		: UCT(link.length, [ 11 ], '==')
 			? link
 			: false
-	console.log({ link, id })
 	if (!id) { this.isKlochar = true; res.redirect('/download') }
 
 	ytdl.getInfo(id)
